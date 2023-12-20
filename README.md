@@ -1,6 +1,6 @@
 **CLASHCORE**
 
-Ten skrypt oblicza Clash Score struktury białka poprzez analizę nakładania się atomów bazując między innymi na promieniach Van der Waalsa. 
+Program oblicza Clash Score struktury białka poprzez analizę nakładania się atomów bazując między innymi na promieniach Van der Waalsa. 
 Skrypt wykorzystuje moduł Bio.PDB z biblioteki Biopython do parsowania struktur białkowych oraz przeprowadzania wyszukiwania sąsiednich par atomów.
 
 **Wymagania** 
