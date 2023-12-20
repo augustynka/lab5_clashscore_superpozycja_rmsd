@@ -45,6 +45,7 @@ Dopasowuje atomy między dwiema strukturami na podstawie identyfikatorów ich ro
 Zwraca listy dopasowanych atomów z obu struktur.
 
 **Iteracja po modelach i obliczanie RMSD:**
+
 Dla każdego modelu w strukturze modeli (models_structure) wykonuje następujące kroki:
 - Znajduje dopasowane atomy między strukturą referencyjną a aktualnym modelem.
 - Jeśli istnieją dopasowane atomy:
