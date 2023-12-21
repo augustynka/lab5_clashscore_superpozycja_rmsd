@@ -24,7 +24,7 @@ Jeśli warunek jest spełniony (tj. atomy są zbyt blisko siebie), zwiększany j
 **Niższy wynik wskazuje na mniej sterycznych zderzeń, sugerując bardziej fizycznie prawdopodobną strukturę.**
 
 
-**Superpozycja, RMSD**
+**SUPERPOZYCJA, RMSD**
 
 
 Skrypt wykorzystuje moduł Bio.PDB z biblioteki Biopython oraz bibliotekę NumPy do obliczania Root Mean Square Deviation (RMSD) pomiędzy dwoma strukturami białkowymi. 
